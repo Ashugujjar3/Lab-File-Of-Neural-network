@@ -21,13 +21,12 @@ The experiments in this lab were implemented using:
 
 | Index | Experiment Description |
 | :--- | :--- |
-| 1 | Implementation of logic gates (AND, OR, NOT) using Perceptron. |
-| 2 | Implementation of the Hebbian Learning Rule. |
-| 3 | Solving the XOR problem using Multi-Layer Perceptron (MLP). |
-| 4 | Study and implementation of various Activation Functions. |
-| 5 | Implementation of the Backpropagation Algorithm. |
-| 6 | Working with Delta Learning Rules. |
-| 7 | Introduction to Radial Basis Function (RBF) Networks. |
+| 1 |  Neural Network using TensorFlow (Low-LevelAPI). |
+| 2 | Neural Network using basic python (fromscratch). |
+| 3 | Neural Network using Keras. |
+| 4 | Agricultural Price Prediction (RegressionProblem). |
+| 5 | MNIST Digital Classification using ANN. |
+| 6 | Plant Disease Detection using CNN. |
 
 ## 🚀 Usage
 
